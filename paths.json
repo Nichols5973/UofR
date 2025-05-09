@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/Rochester/:/",
-    "/content/Rochester/configuration:/.helix/config.json",
-    "/content/Rochester/metadata:/metadata.json"
+    "/content/University/:/",
+    "/content/University/configuration:/.helix/config.json",
+    "/content/University/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/Rochester/"
+    "/content/University/"
   ]
 }
